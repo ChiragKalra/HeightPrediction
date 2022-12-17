@@ -1,0 +1,4 @@
+numpy
+plotly
+tensorflow-gpu
+tensorflow-addons
