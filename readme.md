@@ -26,6 +26,6 @@ C -- 1 --> E{Regression Output}
 ```
 
 ## Training
-For training I've used the <b>ADAM optimiser</b> along with a dynamic learning rate which reduces exponentially every epoch. Training loss used here is the <b>Mean Square Root loss</b>. I've also added gradient clipping to prevent exploding gradients.
+For training I've used the <b>ADAM optimiser</b> along with a dynamic learning rate which reduces exponentially every epoch. Training loss used here is the <b>Mean Squared error</b>. I've also added gradient clipping to prevent exploding gradients.
 
 <b> Note: The hyper parameters have not been fine tuned for optimal performance because of the small dataset.</b>
